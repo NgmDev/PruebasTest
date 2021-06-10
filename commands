@@ -1,0 +1,4 @@
+function MyFuncion(miargumentos){
+console.log("He dicho: " + miargumentos)
+{
+MyFuncion("hola!")
